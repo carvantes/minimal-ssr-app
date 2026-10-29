@@ -31,7 +31,7 @@ export default async function Home() {
 
   return (
     <main style={{ fontFamily: "monospace", padding: "2rem", maxWidth: "800px", margin: "0 auto" }}>
-      <h1>🚀 Minimal SSR App – Amplify Compute Test - lala PR</h1>
+      <h1>🚀 Minimal SSR App – Amplify Compute Test - lala PR2</h1>
       <p style={{ color: "#666" }}>
         This page is server-rendered on every request. Refresh to see new values.
       </p>
